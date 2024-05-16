@@ -1,4 +1,4 @@
-# The Go Programming Language
+# The Go Programming Language is super awesome
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
